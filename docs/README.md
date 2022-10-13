@@ -31,8 +31,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Pike1868/qr-code-component-main/blob/master/docs/index.html)
-- Live Site URL: [Add live site URL here](https://pike1868.github.io/qr-code-component-main/)
+- Solution URL: [Link to html file](https://github.com/Pike1868/qr-code-component-main/blob/master/docs/index.html)
+- Live Site URL: [Project on Github Pages](https://pike1868.github.io/qr-code-component-main/)
 
 ## My process
 
