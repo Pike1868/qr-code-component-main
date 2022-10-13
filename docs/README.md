@@ -15,7 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,7 +28,6 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -54,23 +52,19 @@ I used this project to practice setting up a project and using tailwind for the 
 
 I want to continue practicing frontend projects using tailwind and learn how to better use github as well.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
 - [TailwindCSS](https://tailwindcss.com/) - Tailwindcss documentation helped getting started and understand different classes and how to use them.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Frontend Mentor - [@pike1868](https://www.frontendmentor.io/profile/pike1868)
 - Twitter - [@LuisMendozaio](https://twitter.com/LuisMendozaio)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
 Watched a few tailwindcss videos from Net Ninjas tutorial on youtube. This is his channel: https://www.youtube.com/c/TheNetNinja 
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
